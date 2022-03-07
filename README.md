@@ -1,0 +1,1 @@
+Semaforo JavaScript consiste em 3 botôes com as instruções de 'pare' , 'atenção', 'siga' clicando no botao de cada instrução o semaforo muda de cor.
